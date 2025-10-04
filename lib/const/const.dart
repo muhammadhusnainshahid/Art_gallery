@@ -1,13 +1,5 @@
 import 'package:art_gallery/model/productmodel.dart';
 
-List productList = [
-  Product(
-    imageUrl: 'assets/gloab.jpg',
-    name: 'Golden Brush',
-    price: '\$230',
-  ),
-  Product(imageUrl: 'assets/art2.jpg', name: 'Osmind Armchair', price: '\$230'),
-];
 
 List randomImages = [
   'https://i.pinimg.com/564x/bd/da/69/bdda69f7acf38297c9d31952778a1a3a.jpg',
