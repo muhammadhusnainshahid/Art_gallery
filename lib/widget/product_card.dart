@@ -1,9 +1,5 @@
 import 'package:art_gallery/const/const.dart';
 import 'package:art_gallery/model/productmodel.dart';
-import 'package:art_gallery/views/detail_view.dart';
-import 'package:flutter/cupertino.dart';
-import 'package:flutter/material.dart';
-import 'package:google_fonts/google_fonts.dart';
 import 'package:responsive_sizer/responsive_sizer.dart';
 
 class ProductCard extends StatefulWidget {
@@ -84,40 +80,7 @@ class _ProductCardState extends State<ProductCard> {
                     ],
                   ),
                 ),
-              ),
-              Padding(
-                padding: EdgeInsets.only(top: 35.h),
-                child: Container(
-                  padding: const EdgeInsets.symmetric(horizontal: 10),
-                  width: double.infinity,
-                  height: 20.h,
-                  decoration: const BoxDecoration(
-                    color: Colors.black87,
-                    borderRadius: BorderRadius.only(
-                      bottomLeft: Radius.circular(12),
-                      bottomRight: Radius.circular(12),
-                    ),
-                  ),
-                  child: Stack(
-                    children: [
-                      Text(
-                        product.name,
-                        style: GoogleFonts.kanit(
-                          color: Colors.white,
-                          fontSize: 18.sp,
-                          fontWeight: FontWeight.bold,
-                        ),
-                      ),
-                      Positioned(
-                        top: 3.h,
-                        child: Text(
-                          'Vintage Art ',
-                          style: GoogleFonts.poppins(
-                            color: Colors.white.withOpacity(0.6),
-                            fontSize: 15.sp,
-                          ),
-                        ),
-                      ),
+        
                       Positioned(
                         left: 44.w,
                         top: 5.h,
