@@ -2,10 +2,6 @@ import 'package:animate_do/animate_do.dart';
 import 'package:art_gallery/const/appExtension.dart';
 import 'package:art_gallery/const/text_style.dart';
 import 'package:art_gallery/views/explore.dart';
-import 'package:art_gallery/widget/app_gradient.dart';
-import 'package:art_gallery/widget/product_card.dart';
-import 'package:flutter/cupertino.dart';
-import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:responsive_sizer/responsive_sizer.dart';
 
@@ -92,17 +88,6 @@ class HomeView extends StatelessWidget {
                           fontWeight: FontWeight.w500,
                         ),
                       ),
-                    ),
-                    FadeInRight(
-                      delay: const Duration(milliseconds: 500),
-                      child: TextButton(
-                        onPressed: () {
-                        Navigator.push(context, MaterialPageRoute(builder: (context) => const ExploreView()));
-                        },
-                       child :Text( 'See all',
-                        style: subtitleStyle(
-                          context,
-                        ).copyWith(color: Colors.white70),)
                       ),
                     ),
                   ],
