@@ -6,17 +6,6 @@ List productList = [
     name: 'Golden Brush',
     price: '\$230',
   ),
-  Product(
-    imageUrl: 'assets/mountain1.jpg',
-    name: 'Arc Rockingchair',
-    price: '\$190',
-  ),
-  Product(imageUrl: 'assets/art5.jpg', name: 'Acrylic Edge', price: '\$230'),
-  Product(
-    imageUrl: 'assets/art1.jpg',
-    name: 'Arc Rockingchair',
-    price: '\$190',
-  ),
   Product(imageUrl: 'assets/art2.jpg', name: 'Osmind Armchair', price: '\$230'),
 ];
 
@@ -47,15 +36,6 @@ final List<Product> exploreProducts = [
   Product(imageUrl: 'assets/art5.jpg', name: 'Acrylic Edge', price: '\$145'),
   Product(imageUrl: 'assets/art6.jpg', name: 'Spiral Motion', price: '\$155'),
   Product(imageUrl: 'assets/art8.jpg', name: 'Hue Harmony', price: '\$165'),
-  Product(imageUrl: 'assets/art9.jpg', name: 'Color Smash', price: '\$98'),
-  Product(imageUrl: 'assets/art10.jpg', name: 'Ink Splash', price: '\$180'),
-  Product(imageUrl: 'assets/art11.jpg', name: 'Storm Strokes', price: '\$190'),
-  Product(imageUrl: 'assets/art12.jpg', name: 'Muted Chaos', price: '\$175'),
-  Product(imageUrl: 'assets/art13.jpg', name: 'Blue Depths', price: '\$160'),
-  Product(imageUrl: 'assets/art14.jpg', name: 'Canvas Breeze', price: '\$140'),
-  Product(imageUrl: 'assets/art15.jpg', name: 'Fluid Grace', price: '\$200'),
-  Product(imageUrl: 'assets/art16.jpg', name: 'Aurora Night', price: '\$250'),
-  Product(imageUrl: 'assets/art17.jpg', name: 'Chrome Cloud', price: '\$240'),
   Product(imageUrl: 'assets/art18.jpg', name: 'Vintage Touch', price: '\$170'),
   Product(imageUrl: 'assets/art19.jpg', name: 'Urban Beat', price: '\$220'),
   Product(imageUrl: 'assets/art20.jpg', name: 'Light Pulse', price: '\$135'),
