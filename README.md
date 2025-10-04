@@ -22,11 +22,11 @@ A sleek **Flutter application** to explore, view, and manage artworks from vario
 
 | 🏠 Home Screen                                                                                                               | 🎨 Artwork Details                                                                                                           |
 | ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| ![WhatsApp Image 2025-10-04 at 11 57 01 AM](https://github.com/user-attachments/assets/05016782-4235-4444-8303-21338553026f) | ![WhatsApp Image 2025-10-04 at 11 57 25 AM](https://github.com/user-attachments/assets/66274f79-f5b1-43a1-bddf-bbc71ec47fed) |
+| ![WhatsApp Image 2025-10-04 at 11 57 01 AM](https://github.com/user-attachments/assets/884e6d7e-b120-4e7a-959d-909948f7e50e) | ![WhatsApp Image 2025-10-04 at 11 57 25 AM](https://github.com/user-attachments/assets/0c67fb4d-eab0-41a0-b470-e6e279d6e9d5) |
 
 | ❤️ Favorites                                                                                                                 | 📂 Categories                                                                                                                |
 | ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| ![WhatsApp Image 2025-10-04 at 12 00 22 PM](https://github.com/user-attachments/assets/0c67fb4d-eab0-41a0-b470-e6e279d6e9d5) | ![WhatsApp Image 2025-10-04 at 11 56 27 AM](https://github.com/user-attachments/assets/884e6d7e-b120-4e7a-959d-909948f7e50e) |
+| ![WhatsApp Image 2025-10-04 at 12 00 22 PM](https://github.com/user-attachments/assets/66274f79-f5b1-43a1-bddf-bbc71ec47fed) | ![WhatsApp Image 2025-10-04 at 11 56 27 AM] (https://github.com/user-attachments/assets/05016782-4235-4444-8303-21338553026f)|
 
 ---
 
